@@ -1,4 +1,5 @@
-module github.com/weldongoree/stringmetrics
+module stringmetrics.io
 
-go 1.14
+go 1.16
+
 
